@@ -47,12 +47,6 @@ Here are a few highlights of what I’m working on or have completed:
 
 ---
 
-## 📈 GitHub Stats
-
-![Mandisi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandisiVeletshona&show_icons=true&theme=default)
-
----
-
 ## 🌱 Currently Learning
 
 - 📊 Data Analytics tools like Power BI and Tableau
