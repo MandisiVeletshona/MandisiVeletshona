@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mandisi Veletshona (@MandisiVeletshona)
+# 👋 Hi there, I'm Mandisi Veletshona
 
 Welcome to my GitHub profile! I'm a passionate and curious learner in the world of **Data Science** and **Analytics**. I enjoy solving real-world problems with data and collaborating on impactful projects.
 
